@@ -858,7 +858,7 @@
     "semver": "^6.0.0",
     "solidity-parser-antlr": "^0.4.11",
     "uuid": "^3.3.2",
-    "web3": "1.7.4"
+    "web3": "4.16.0"
   },
   "extensionDependencies": [
     "JuanBlanco.solidity"
