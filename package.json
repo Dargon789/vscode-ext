@@ -809,7 +809,7 @@
     "eslint-config-prettier": "8.5.0",
     "husky": "^8.0.1",
     "istanbul": "^0.4.5",
-    "lint-staged": "^8.2.0",
+    "lint-staged": "^9.0.0",
     "mocha": "^6.2.3",
     "mockery": "^2.1.0",
     "prettier": "2.7.1",
