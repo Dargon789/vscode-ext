@@ -857,7 +857,7 @@
     "rimraf": "^3.0.2",
     "semver": "^6.0.0",
     "solidity-parser-antlr": "^0.4.11",
-    "uuid": "^3.3.2",
+    "uuid": "^11.0.5",
     "web3": "1.7.4"
   },
   "extensionDependencies": [
