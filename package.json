@@ -825,7 +825,7 @@
     "tsconfig-paths-webpack-plugin": "3.5.2",
     "typescript": "4.7.4",
     "typescript-transform-paths": "^3.3.1",
-    "webpack": "5.73.0",
+    "webpack": "5.76.0",
     "webpack-cli": "4.10.0",
     "webpack-merge": "^5.8.0"
   },
@@ -855,7 +855,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "rimraf": "^3.0.2",
-    "semver": "^6.0.0",
+    "semver": "^6.3.1",
     "solidity-parser-antlr": "^0.4.11",
     "uuid": "^3.3.2",
     "web3": "1.7.4"
