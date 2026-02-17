@@ -837,7 +837,7 @@
     "@truffle/debug-utils": "^6.0.57",
     "@truffle/debugger": "^12.1.5",
     "@truffle/environment": "^0.2.160",
-    "@truffle/fetch-and-compile": "^0.5.19",
+    "@truffle/fetch-and-compile": "^0.5.56",
     "@truffle/resolver": "^9.0.53",
     "@truffle/workflow-compile": "^4.0.71",
     "@vscode/extension-telemetry": "^0.6.2",
@@ -858,7 +858,7 @@
     "semver": "^6.0.0",
     "solidity-parser-antlr": "^0.4.11",
     "uuid": "^3.3.2",
-    "web3": "1.7.4"
+    "web3": "4.0.1"
   },
   "extensionDependencies": [
     "JuanBlanco.solidity"
